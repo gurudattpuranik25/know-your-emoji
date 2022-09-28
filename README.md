@@ -6,6 +6,7 @@ It consists of an emoji database that houses 84 emojis and when an user enters a
 If the entered emoji is not present in the database, then an error message is displayed over the screen.
 <br>
 Users can also click on an emoji to know it's meaning.
+
 <br/>
 
 Teck Stack:
